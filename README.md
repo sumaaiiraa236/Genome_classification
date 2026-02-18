@@ -51,13 +51,13 @@ This baseline investigates how far a linear classifier can go when applied direc
 [2] Zhou, J., & Troyanskaya, O. (2015). Predicting effects of noncoding variants with deep learning–based sequence model. Nature Methods.
 
 [3] UCI Machine Learning Repository. Promoter Gene Sequences Dataset.
-##Future Improvements
-    1.Use one-hot encoding instead of numeric encoding to better represent DNA bases.
+## Future Improvements
+1.Use one-hot encoding instead of numeric encoding to better represent DNA bases.
 
-    2.Try k-mer features to capture short sequence patterns.
+2.Try k-mer features to capture short sequence patterns.
 
-    3.Experiment with non-linear models like SVM or Random Forest.
+3.Experiment with non-linear models like SVM or Random Forest.
 
-    4.Explore a simple 1D CNN to automatically learn promoter motifs.
+4.Explore a simple 1D CNN to automatically learn promoter motifs.
 
-    5.Add more evaluation metrics such as F1-score or ROC-AUC.
+5.Add more evaluation metrics such as F1-score or ROC-AUC.
